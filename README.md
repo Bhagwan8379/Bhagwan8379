@@ -38,13 +38,13 @@
 ## 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/bhagwan-gire-84013a293" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/ff0000/linkedin.png" width="40" height="40" />
   </a>
   <a href="https://www.instagram.com/bhagwan_gire_96k" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/ff0000/instagram-new.png" width="40" height="40" />
   </a>
   <a href="https://leetcode.com/Bhagwan8379/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/leetcode.svg" width="40" height="40" />
+    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ff0000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png" width="40" height="40" />
   </a>
 </p>
 
@@ -68,6 +68,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagwan8379&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagwan8379&theme=redical" alt="GitHub Activity Graph" />
 </p>
 
 ---
