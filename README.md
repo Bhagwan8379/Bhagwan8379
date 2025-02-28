@@ -90,12 +90,17 @@
 
 
 
+## 👨‍💻 Welcome to My GitHub Profile
 
+### ✨ Cursor Animation Effect ✨
 
-
+```xml
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <circle cx="10" cy="10" r="5" fill="red">
     <animate attributeName="cx" values="10;190;10" dur="2s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="10;190;10" dur="2s" repeatCount="indefinite"/>
   </circle>
 </svg>
+
+
+
