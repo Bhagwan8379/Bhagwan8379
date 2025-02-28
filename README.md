@@ -25,12 +25,13 @@
 
 
 ---
+## 🔥 About Me  
 
-## 🔥 About Me
-- 👨‍💻 All of my projects are available at [dummy-repository.onrender.com] 
+- 👨‍💻 All of my projects are available at [My Projects](https://dummy-repository.onrender.com)  
 - 💬 Ask me about **React, React Native, JavaScript**  
-- 📫 How to reach me **bhagwangire05@gmail.com**  
-- ⚡ Hobbies **Listening to songs & traveling**  
+- 📫 How to reach me: [Email Me](mailto:bhagwangire05@gmail.com)  
+- ⚡ Hobbies: **Listening to songs & traveling**  
+  
 
 ---
 
