@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FF0000,FF7300,FFEE00,00FF00,00FFFF,007BFF,8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhagwan;Fullstack+Web+Developer;React+Native+Developer;Frontend+Developer;Graphic+Designer;JavaScript+%7C+React+%7C+React+Native+Expert;Building+Awesome+Projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FF0000,FF7300,FFEE00,00FF00,00FFFF,007BFF,8A2BE2&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhagwan;Fullstack+Web+Developer;React+Native+Developer;Frontend+Developer;Graphic+Designer;JavaScript+%7C+React+%7C+React+Native+Expert;Building+Awesome+Projects!">
 </p>
+
 
 
 <!-- Fun SVG Animation -->
