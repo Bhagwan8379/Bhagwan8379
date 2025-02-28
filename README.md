@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<!-- 3D Stylish GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github.com/bhagwan8379/bhagwan8379/raw/output/github-snake-dark.svg" alt="VIP Styled Contribution Graph"/>
-</p>
 
 
 ---
@@ -86,21 +82,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Typing SVG" />
 </p>
-
-
-
-
-## 👨‍💻 Welcome to My GitHub Profile
-
-### ✨ Cursor Animation Effect ✨
-
-```xml
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="10" cy="10" r="5" fill="red">
-    <animate attributeName="cx" values="10;190;10" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="10;190;10" dur="2s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-
-
 
