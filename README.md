@@ -27,7 +27,7 @@
 ---
 
 ## 🔥 About Me
-- 👨‍💻 All of my projects are available at [bhagwan-portfolio.com](https://bhagwan-portfolio.com)  
+- 👨‍💻 All of my projects are available at [bhagwan-portfolio.com](dummy-repository.onrender.com)  
 - 💬 Ask me about **React, React Native, JavaScript**  
 - 📫 How to reach me **bhagwangire05@gmail.com**  
 - ⚡ Hobbies **Listening to songs & traveling**  
