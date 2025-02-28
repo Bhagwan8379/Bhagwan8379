@@ -35,13 +35,13 @@
   <a href="https://dev.to/bhagwan8379" target="blank">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/bhagwan gire" target="blank">
+  <a href="https://www.linkedin.com/in/bhagwan-gire-84013a293" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/bhagwan_gire_96k" target="blank">
+  <a href="https://www.instagram.com/bhagwan_gire_96k" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/bhagwan8379" target="blank">
+  <a href="https://leetcode.com/u/Bhagwan8379/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -72,5 +72,6 @@
 
 ## 🎭 Fun Animation:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines
+=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Typing SVG" />
 </p>
