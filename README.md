@@ -85,3 +85,60 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Typing SVG" />
 </p>
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2FFF29&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+GitHub+Profile!;Fullstack+Developer;React+|+React+Native+|+JavaScript" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Visitors&color=red&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke Card" />
+</p>
+
+<p align="center">
+  <img src="https://svg-time.now.sh" alt="Current Time" />
+</p>
+
+---
+
+### 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+...
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎵 Music Vibes
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username" alt="Spotify Now Playing" />
+</p>
+
+---
+
+🚀 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+
+---
+
+💻 **Fun Fact**: *I love building cool things with JavaScript!*
+
+
+
+
