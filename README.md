@@ -106,9 +106,9 @@ Welcome to my GitHub profile! Here’s a **3D animated stylish GitHub Contributi
 ---
 
 ## 🔥 3D Stylish GitHub Contribution Graph  
-<!-- This will display an animated snake graph of contributions -->
+<!-- Animated GitHub Contribution Snake Graph -->
 <p align="center">
-  <img src="https://github.com/bhagwan8379/bhagwan8379/raw/output/github-snake-dark.svg" alt="VIP Styled Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/bhagwan8379/bhagwan8379/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph"/>
 </p>
 
 ---
@@ -116,13 +116,14 @@ Welcome to my GitHub profile! Here’s a **3D animated stylish GitHub Contributi
 ## 🔧 How It Works  
 This **3D animated snake graph** updates automatically using **GitHub Actions**. It tracks my contributions in real-time and displays them in a **dark-themed, stylish design**.  
 
+To make sure it works, you need to add the **GitHub Actions workflow file**.  
+
 ---
 
 ## 📜 GitHub Action Setup  
-To ensure the graph updates correctly, this GitHub Action workflow is running in the background:  
-
+### **(Add This File to `.github/workflows/snake.yml`)**  
 ```yaml
-name: Generate Stylish 3D GitHub Contribution Graph
+name: Generate 3D GitHub Contribution Snake Graph
 
 on:
   schedule:
@@ -130,22 +131,20 @@ on:
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the Contribution Snake Graph
+      - name: Generate the Snake Graph
         uses: Platane/snk@v3
         with:
           github_user_name: "bhagwan8379"
           outputs: |
-            dist/github-snake-dark.svg
-          color_scheme: "dark"  # Options: light, dark, neon, custom
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push the Graph to GitHub Pages
+      - name: Push Snake Graph to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
