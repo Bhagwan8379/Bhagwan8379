@@ -93,5 +93,56 @@
 
 
 
+![3D VIP Contributions](https://raw.githubusercontent.com/your-username/your-repo/main/contributions.svg)
 
 
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 112" width="720" height="112">
+  <style>
+    @keyframes glow {
+      0% { filter: brightness(100%); }
+      50% { filter: brightness(120%); }
+      100% { filter: brightness(100%); }
+    }
+    .cube {
+      transform-style: preserve-3d;
+      transition: all 0.3s ease;
+      animation: glow 2s infinite;
+    }
+    .cube:hover {
+      transform: translateZ(10px);
+      opacity: 0.9;
+    }
+  </style>
+  <defs>
+    <linearGradient id="vipGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8A2BE2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF69B4;stop-opacity:1" />
+    </linearGradient>
+    <filter id="cubeShadow" height="130%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" />
+      <feOffset dx="2" dy="2" result="offsetblur" />
+      <feMerge> 
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Contribution grid -->
+  <g transform="translate(10,10) skewX(45)">
+    <!-- Sample data - Replace with your actual contribution data -->
+    <rect class="cube" x="0" y="0" width="10" height="10" fill="url(#vipGradient)" filter="url(#cubeShadow)" rx="2" ry="2"/>
+    <rect class="cube" x="15" y="0" width="10" height="10" fill="url(#vipGradient)" filter="url(#cubeShadow)" rx="2" ry="2"/>
+    <!-- Add more rectangles following your contribution pattern -->
+  </g>
+  
+  <!-- 3D Effect -->
+  <path d="M10,102 L710,102 L720,112 L0,112 Z" fill="url(#vipGradient)" opacity="0.3"/>
+  
+  <!-- VIP Text -->
+  <text x="50%" y="90" text-anchor="middle" font-family="Arial" font-size="20" fill="#FFFFFF" opacity="0.8">
+    3D VIP CONTRIBUTIONS
+  </text>
+</svg>
