@@ -22,10 +22,11 @@
   </a>
 </p>
 
-<!-- 3D Animated GitHub Contribution Graph -->
+<!-- 3D Stylish GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://github.com/bhagwan8379/bhagwan8379/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/bhagwan8379/bhagwan8379/raw/output/github-snake-dark.svg" alt="VIP Styled Contribution Graph"/>
 </p>
+
 
 ---
 
