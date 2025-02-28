@@ -91,3 +91,61 @@
 
 
 
+
+
+
+
+
+
+
+
+# 🚀 Bhagwan's GitHub Profile  
+
+Welcome to my GitHub profile! Here’s a **3D animated stylish GitHub Contribution Graph** to showcase my activity.  
+
+---
+
+## 🔥 3D Stylish GitHub Contribution Graph  
+<!-- This will display an animated snake graph of contributions -->
+<p align="center">
+  <img src="https://github.com/bhagwan8379/bhagwan8379/raw/output/github-snake-dark.svg" alt="VIP Styled Contribution Graph"/>
+</p>
+
+---
+
+## 🔧 How It Works  
+This **3D animated snake graph** updates automatically using **GitHub Actions**. It tracks my contributions in real-time and displays them in a **dark-themed, stylish design**.  
+
+---
+
+## 📜 GitHub Action Setup  
+To ensure the graph updates correctly, this GitHub Action workflow is running in the background:  
+
+```yaml
+name: Generate Stylish 3D GitHub Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the Contribution Snake Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "bhagwan8379"
+          outputs: |
+            dist/github-snake-dark.svg
+          color_scheme: "dark"  # Options: light, dark, neon, custom
+
+      - name: Push the Graph to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
