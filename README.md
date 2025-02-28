@@ -1,46 +1,35 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&height=50&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%E2%9C%A8;Full-Stack+Developer+%F0%9F%92%BB;Open-Source+Enthusiast+%F0%9F%92%9A;Problem+Solver+%F0%9F%A4%96" alt="Typing SVG" /></a>
-</div>
+<h1 align="center">Hi 👋, I'm Bhagwan</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagwan8379&label=Profile%20views&color=0e75b6&style=flat" alt="bhagwan8379" /> </p>
 
-<!-- Animated Divider -->
-<img src="https://i.imgur.com/nMZz4U6.gif" width="100%">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagwan8379" alt="bhagwan8379" /></a> </p>
 
-<!-- Profile Container -->
-<table align="center">
-  <tr>
-    <td width="50%">
-      
-**🎨 My Development Stack**  
-      
-```svg
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 320px;">
-  <style>
-    .cube { transform-box: fill-box; }
-    .front { fill: #64ffda; }
-    .back { fill: #2979ff; }
-    .top { fill: #00bfa5; }
-    @keyframes rotate {
-      0% { transform: rotateX(0) rotateY(0); }
-      100% { transform: rotateX(360deg) rotateY(360deg); }
-    }
-    .cube { animation: rotate 8s infinite linear; }
-  </style>
-  
-  <!-- Cube -->
-  <g class="cube" transform="translate(100 100)">
-    <polygon class="back" points="-40,-40 40,-40 40,40 -40,40"/>
-    <polygon class="top" points="-40,-40 40,-40 0,-80"/>
-    <polygon class="front" points="0,-80 40,-40 40,40 -40,40 -40,-40"/>
-  </g>
-  
-  <!-- Glow Effect -->
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="2.5" result="glow"/>
-    <feMerge>
-      <feMergeNode in="glow"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-</svg>
+- 👨‍💻 All of my projects are available at [dummy-repository.onrender.com](dummy-repository.onrender.com)
+
+- 💬 Ask me about **React, react native, javascript**
+
+- 📫 How to reach me **bhagwangire05@gmail.com**
+
+- ⚡ Hobbies **Listening songs and travelling**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/bhagwan8379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhagwan8379" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhagwan gire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagwan gire" height="30" width="40" /></a>
+<a href="https://instagram.com/bhagwan_gire_96k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhagwan_gire_96k" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhagwan8379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhagwan8379" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagwan8379&show_icons=true&locale=en&layout=compact" alt="bhagwan8379" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagwan8379&show_icons=true&locale=en" alt="bhagwan8379" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagwan8379&" alt="bhagwan8379" /></p>
